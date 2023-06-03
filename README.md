@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mckwsta
+- 👋 Hi, I’m @ProjectMc
 - 👀 I’m interested in ... developer stuff  
 - 🌱 I’m currently learning ... I am trying tough
 - 💞️ I’m looking to collaborate on ...
